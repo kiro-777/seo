@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://bgfoods.netlify.com/</loc>
+  <lastmod>2019-11-30T13:25:47+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://bgfoods.netlify.com/index.html</loc>
+  <lastmod>2019-11-30T13:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bgfoods.netlify.com/shkembe-chorba.html</loc>
+  <lastmod>2019-11-30T13:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bgfoods.netlify.com/musaka.html</loc>
+  <lastmod>2019-11-30T13:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bgfoods.netlify.com/banica.html</loc>
+  <lastmod>2019-11-30T13:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bgfoods.netlify.com/about.html</loc>
+  <lastmod>2019-11-30T13:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bgfoods.netlify.com/contact.html</loc>
+  <lastmod>2019-11-30T13:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bgfoods.netlify.com/vsichki-recepti.html</loc>
+  <lastmod>2019-11-30T13:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bgfoods.netlify.com/terms-and-conditions.html</loc>
+  <lastmod>2019-11-30T13:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bgfoods.netlify.com/gdpr.html</loc>
+  <lastmod>2019-11-30T13:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
